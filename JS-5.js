@@ -17,3 +17,4 @@ window.onscroll = () => {
     scrollUp.classList.remove("scroll-active");
   }
 }
+
